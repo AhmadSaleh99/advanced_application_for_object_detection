@@ -15,8 +15,8 @@ o	Now type the command
 6.	Click on dimensions check to start the object dimensions measurement
 Note-1: it is better to use external camera. To do that you need to change the camera source in the following files (App.py, camruler.py, frame_capture.py) from 0 to 1.
 Note-2: for the dimensions measurement system you should follow this instruction:
-1.	The camera should be completely vertical to the object being measured.
-2.	The camera should have high quality with auto focus feature.
-3.	You need specify the range of the camera.
-4.	You need to have a good contrast between the object and the background so it’s better to have a white background.
-5.	You have to provide a suitable lighting condition to prevent the shadows of the object.
+  a.	The camera should be completely vertical to the object being measured.
+  b.	The camera should have high quality with auto focus feature.
+  c.	You need specify the range of the camera.
+  d.	You need to have a good contrast between the object and the background so it’s better to have a white background.
+  e.	You have to provide a suitable lighting condition to prevent the shadows of the object.
